@@ -1,6 +1,7 @@
 package sorttests;
 
 import com.netcracker.sorts.*;
+import com.netcracker.sorts.abstracts.AbstractBubbleSort;
 import org.junit.Test;
 
 import java.util.Arrays;

@@ -2,7 +2,6 @@ package com.netcracker.sorts.abstracts;
 
 import com.netcracker.annotations.SortInstance;
 import com.netcracker.reflections.Reflection;
-import com.netcracker.sorts.BubbleSort;
 
 import java.util.*;
 
